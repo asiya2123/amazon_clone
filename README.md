@@ -26,13 +26,13 @@
 
 ## 📸Preview-3
 
-- When we hover over the table data it will highlight the row with blue color
-- you can observe the 1st row
-
-
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/732d1af1306a198010203d7543e1f48d4c53d278/Screenshot%202025-09-24%20104255.png)
+![Project view](https://github.com/asiya2123/project2/blob/8f65da68705ed202975640f98ae85aa24a3380f5/Screenshot%202025-09-24%20131709.png)
 
 ---
+
+## 📸Preview-4
+
+![Project view](https://github.com/asiya2123/project2/blob/8f65da68705ed202975640f98ae85aa24a3380f5/Screenshot%202025-09-24%20131709.png)
 
 ## 💻 Technologies Used
 
