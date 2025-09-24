@@ -14,7 +14,7 @@
 
 ## 📸Preview of Project
 
-![Project view]()
+![Project view](https://github.com/asiya2123/project2/blob/ee439de52248a628f87c3d2a11f12569fdd6ba44/Screenshot%202025-09-24%20131557.png)
 
 ---
 
