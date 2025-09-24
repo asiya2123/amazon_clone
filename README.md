@@ -32,7 +32,7 @@
 
 ## 📸Preview-4
 
-![Project view](https://github.com/asiya2123/project2/blob/8f65da68705ed202975640f98ae85aa24a3380f5/Screenshot%202025-09-24%20131709.png)
+![Project view](https://github.com/asiya2123/project2/blob/583070d4c90f2ebad8c2afe55401360f825c1131/Screenshot%202025-09-24%20131733.png)
 
 ## 💻 Technologies Used
 
@@ -43,4 +43,4 @@
 
 🙌 **Thank You!**
 
-👩‍💻 Developed by: BHAVANI MACHARLA (Bhavani-mhrl,RockPaperScissors)
+👩‍💻 Build by: ASIYA SHAIK (Asiya_Sk,RockPaperScissors)
