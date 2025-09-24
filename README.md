@@ -1,4 +1,4 @@
-# 🌐 Foodies Project
+# 🌐 amazon_clone Project
 
 ## 📌 **Overview**
 
@@ -20,7 +20,7 @@
 
 ## 📸Preview-2
 
-![Project view](https://github.com/bhavani-mhrl/foodie-project/blob/3032d404e324e0b36bb813a19984396bb7421e1b/Screenshot%202025-09-24%20104240.png)
+![Project view](https://github.com/asiya2123/project2/blob/fc2330ff5851eec17d43f432a744e2ac9c1e48bb/Screenshot%202025-09-24%20131631.png)
 
 ---
 
