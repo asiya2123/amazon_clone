@@ -1,4 +1,4 @@
-# 🌐 amazon_clone Project
+# 🌐 Amazon_clone Project
 
 ## 📌 **Overview**
 
