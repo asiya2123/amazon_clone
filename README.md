@@ -14,7 +14,7 @@ A responsive Amazon homepage clone built using pure HTML and CSS. This project r
 
 ---
 
-![Amazon Clone Preview](
+![Amazon Clone Preview](https://github.com/asiya2123/amazon_clone/blob/cc6a20b3365c7af2485a4a3b24fca033b87dc492/Screenshot%202025-09-24%20131709.png)
 
 ---
 
